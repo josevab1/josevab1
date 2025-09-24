@@ -1,4 +1,4 @@
-Im Josev, i am simply learning stuff.
+Im Josev, i like learning stuff.
 
 <!---
 josevab1/josevab1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
